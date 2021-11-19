@@ -1,0 +1,85 @@
+{
+    "people":[
+        {
+            "SLNO":"1",
+            "NAME":"Basmathi Rice",
+            "QUANTITY":"1Kg",
+            "UNIT":"120",
+            "DEPARTMENT":"Grains",
+            "NOTES":"India Gate "
+        },
+        {
+            "SLNO":"2",
+            "NAME":"Apple",
+            "QUANTITY":"1Kg",
+            "UNIT":"40",
+            "DEPARTMENT":"Fruits",
+            "NOTES":"Italian Apple" 
+        },
+        {
+            "SLNO":"3",
+            "NAME":"Carrot",
+            "QUANTITY":"2Kg",
+            "UNIT":"55",
+            "DEPARTMENT":"Vegetable",
+            "NOTES":"Thin shape"
+        },
+        {
+            "SLNO":"4",
+            "NAME":"Coffee",
+            "QUANTITY":"500gms",
+            "UNIT":"44",
+            "DEPARTMENT":"Dairy",
+            "NOTES":"Bru instant coffee powder"
+        },
+        {
+            "SLNO":"5",
+            "NAME":"Aata",
+            "QUANTITY":"2Kg",
+            "UNIT":"99",
+            "DEPARTMENT":"Flour",
+            "NOTES":"Ashirvad Aata"
+        },
+        {
+            "SLNO":"6",
+            "NAME":"Brinjal",
+            "QUANTITY":"500gms",
+            "UNIT":"84",
+            "DEPARTMENT":"Vegetable",
+            "NOTES":"White Long shape"
+        },
+        {
+            "SLNO":"7",
+            "NAME":"Egg",
+            "QUANTITY":"15Nos",
+            "UNIT":"44",
+            "DEPARTMENT":"Dairy",
+            "NOTES":"White color"
+        },
+        {
+            "SLNO":"8",
+            "NAME":"Sugar",
+            "QUANTITY":"5Kg",
+            "UNIT":"144",
+            "DEPARTMENT":"Sugar",
+            "NOTES":"Solimo brand"
+        },
+        {
+            "SLNO":"9",
+            "NAME":"Soap",
+            "QUANTITY":"2 No",
+            "UNIT":"67",
+            "DEPARTMENT":"Cosmetics",
+            "NOTES":"Dove bath soap"
+        },
+        {
+            "SLNO":"10",
+            "NAME":"Onion",
+            "QUANTITY":"1 Kg",
+            "UNIT":"77",
+            "DEPARTMENT":"Vegetable",
+            "NOTES":"Large shape"
+        }
+
+    ]
+}
